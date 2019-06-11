@@ -1,4 +1,6 @@
 # Belly_Button_BioDiversity
+![image](https://user-images.githubusercontent.com/46179696/59240201-78e49380-8bb8-11e9-80f2-ee62c84ea75f.png)
+
 Interactive dashboard to explore the Belly Button Biodiversity DataSet
 
 https://tummybutton.herokuapp.com/
